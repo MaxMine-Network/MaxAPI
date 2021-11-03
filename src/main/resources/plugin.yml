@@ -1,0 +1,7 @@
+name: MaxAPI
+authors: [TheMrLiamt, James_TheMan]
+load: STARTUP
+version: 1.0
+main: net.maxmine.api.MaxAPI
+depend:
+  - ProtocolLib
